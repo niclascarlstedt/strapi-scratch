@@ -45,7 +45,7 @@ Navigate to your `./my-projects/foodadvisor/api` folder by running `cd api` from
 - Run the following command in your `./foodadvisor/api` folder:
 
 ```
-yarn && yarn seed && yarn develop
+npm i && npm run seed && npm run develop
 ```
 
 This will install the dependencies, fill your application with data and run your server. You can run these commands separately.
@@ -71,7 +71,7 @@ Navigate to your `./my-projects/foodadvisor/client` folder by running `cd client
 - Run the following command in your `./foodadvisor/client` folder
 
 ```
-yarn && yarn dev
+npm run dev
 ```
 
 This will install the dependencies, and run your server. You can run these commands separately.

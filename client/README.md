@@ -21,7 +21,7 @@ Be sure to have the correct env variables:
 - Run the following command in your `./foodadvisor/client` folder
 
 ```
-yarn && yarn dev
+npm i && npm run dev
 ```
 
 This will install the dependencies, and run your server. You can run these commands separately.
